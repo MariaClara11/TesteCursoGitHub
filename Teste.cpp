@@ -1,3 +1,3 @@
 int main(){
-    printf("Teste 23");
+    printf("Teste 2");
 }
